@@ -1,0 +1,2 @@
+# miniCRM
+simple SpringBoot app
